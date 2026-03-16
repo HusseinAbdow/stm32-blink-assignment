@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+*.o
+*.elf
+*.map
+*.d
+*.lst
+*.a
+*.lib
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.pyc
+__pycache__/
+
+# CubeMX
+db/
